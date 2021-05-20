@@ -1,4 +1,5 @@
-ENV=dev
-PORT=5000
-LOG_LEVEL=DEBUG
-LOCAL_SETTINGS_FILE=/app/_service_storage/settings.json
+DEVICE=hci0
+IBEACON_UUID=ffffffff-bbbb-cccc-dddd-eeeeeeeeeeee
+IBEACON_MAJOR=0
+IBEACON_MINOR=0
+IBEACON_POWER=200

@@ -1,2 +1,8 @@
 .vscode
-_storage/config.json
+_doc
+Contribuitors.md
+Dockerfile
+docker-compose.yml
+env
+LICENSE
+README.md
