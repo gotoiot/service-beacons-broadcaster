@@ -14,6 +14,7 @@ Dentro del tipo broadcaster-observer existe un subtipo de dispositivos que se co
 Este proyecto es un broadcaster de distintas tramas beacons que funciona sobre sistemas Linux que posean una placa con BLE. Está desarrollado en `Python` y se ejecuta sobre un contenedor de `Docker`. 
 
 > Para que este servicio funcione deberías contar con un host que tenga Bluetooth LE 4.0+.
+
 > El soporte actual es únicamente para tramas iBeacon.
 
 ## Instalar las dependencias 🔩
@@ -56,7 +57,7 @@ Una vez que haya compilado activa el Bluetooth en el sistema y ejecutá el coman
     |  $$$$$$|  $$$$$$/ |  $$$$|  $$$$$$/       /$$$$$|  $$$$$$| $$   
      \______/ \______/   \___/  \______/       |______/\______/|__/   
 
-                SERVICE IBEACON BROADCASTER
+                SERVICE BEACONS BROADCASTER
                 ---------------------------
 
 * Run iBeacon broadcaster:

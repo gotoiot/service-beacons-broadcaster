@@ -10,7 +10,7 @@ def _get_welcome_message():
         |  $$$$$$|  $$$$$$/ |  $$$$|  $$$$$$/       /$$$$$|  $$$$$$| $$   
          \______/ \______/   \___/  \______/       |______/\______/|__/   
 
-                        SERVICE IBEACON BROADCASTER
+                        SERVICE BEACONS BROADCASTER
                         ---------------------------
 
     * Run iBeacon broadcaster:
